@@ -4,7 +4,9 @@
 
 **该repo为《XJTU计算机系自救与生存指南》的存储与配置仓库。**
 
+<br/>
 
+<br/>
 
 ### For User
 
@@ -16,9 +18,13 @@
 
 ![](pic/pic_demo2.jpg)
 
+![](pic/pic_demo3.jpg)
 
 
 
+<br/>
+
+<br/>
 
 ### For Contributor
 
