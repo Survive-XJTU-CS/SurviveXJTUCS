@@ -32,6 +32,7 @@ module.exports = {
       },
       {
         text: '课程学习', link: '/pages/a788a8/', items: [
+          { text: '如何成为一个计算机知识体系完整的毕业生', link: '/pages/440670/'},
           { text: '校内课程', link: '/pages/a788a8/', items: [
             { text: '程序设计基础', link: '/pages/a788a8/'},
             { text: '操作系统', link: '/pages/659db1/'},
