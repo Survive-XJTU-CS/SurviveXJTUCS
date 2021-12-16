@@ -38,14 +38,9 @@ module.exports = {
             { text: '操作系统', link: '/pages/659db1/'},
           ]
         },
-          { text: '校外课程', link: '/pages/85b2d4/', items: [
+          { text: '校外优质课程', link: '/pages/85b2d4/', items: [
             { text: '程序设计基础', link: '/pages/85b2d4/'},
             { text: '操作系统', link: '/pages/336aed/'},
-          ]
-        },
-          { text: '国外课程', link: '/pages/fa93fe/', items: [
-            { text: '程序设计基础', link: '/pages/fa93fe/'},
-            { text: '操作系统', link: '/pages/3c3dbc/'},
           ]
         },
         ]
