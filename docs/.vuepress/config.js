@@ -35,6 +35,7 @@ module.exports = {
           { text: '校内课程', link: '/pages/a788a8/', items: [
             { text: '程序设计基础', link: '/pages/a788a8/'},
             { text: '操作系统', link: '/pages/659db1/'},
+            { text: '数据结构与算法', link: '/pages/ecdf36/'}
           ]
         },
           { text: '校外课程', link: '/pages/85b2d4/', items: [
