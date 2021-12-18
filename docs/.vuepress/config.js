@@ -22,7 +22,7 @@ module.exports = {
       ] },
       {
         text: '思想意识', link: '/pages/98b006/', items: [
-          { text: '摆脱惯性思维与从众心理', link: '/pages/98b006/' },
+          { text: '摆脱惯性思维', link: '/pages/98b006/' },
           { text: '培养独立思考能力', link: '/pages/c463db/' },
           { text: '相信与不相信', link: '/pages/5665f0/' },
           { text: '尊重一切', link: '/pages/0b10be/' },
