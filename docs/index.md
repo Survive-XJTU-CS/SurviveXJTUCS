@@ -10,13 +10,13 @@ bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 features: # 可选的
   - title: Study
     details: 了解学校讲授的课程，在学校讲授的课程之外寻找更加有趣的资源
-    link: /pages/a2f161/
+    link: /pages/a788a8/
   - title: Research
     details: 明确自己是否喜爱做研究，寻找合适的研究方向，探索相应的研究机构
-    link: /pages/a2f161/
+    link: /pages/384e2a/
   - title: Work
     details: 从不同的视角看待读研与工作，我们应该去向何方？
-    link: /pages/a2f161/
+    link: /pages/d69141/
   #  - title: Life
   #  details: 计算机系的生活，计算机学院的介绍
   #  link: /pages/a2f161
