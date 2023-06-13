@@ -10,9 +10,10 @@
 
 ### For User
 
-我们已经将该项目部署到一台校内服务器中，暂未配置域名。但同学们可以在校内网络的环境下通过下面链接访问。
+我们已经将该项目部署到cloudflare pages中，同学们可以通过下面链接访问。
 
-[《XJTU计算机系自救与生存指南》](http://115.154.246.169:8081/)
+- [https://survivexjtucs.pages.dev/](https://survivexjtucs.pages.dev/)
+- [https://survive.ymzymz.me/](https://survive.ymzymz.me/)
 
 <br/>
 
