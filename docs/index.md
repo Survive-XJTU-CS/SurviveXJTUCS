@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: http://vi.xjtu.edu.cn/images/a1-3jdxhred.png
+heroImage: /img/xjtu-logo.png
 heroText: XJTU计算机系生存与自救指南
 tagline: 🚀Study/Research for Yourself in XJTU-CS
 actionText: 开始浏览 →
